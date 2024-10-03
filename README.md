@@ -35,6 +35,7 @@ The objective of the game is to control a character (the player) to navigate thr
 <div aling = "center" > 
 <h1>🛠 Features</h1>
 </div>
+
 **Dynamic Memory Management**: Objects such as enemies and power-ups are dynamically created and destroyed using memory management practices (new, delete).
 
 **Inheritance and Polymorphism**: The game uses a hierarchy of game objects, with GameObject as the base class. Polymorphic method calls (update(), draw(), init()) are implemented to handle different game elements.
